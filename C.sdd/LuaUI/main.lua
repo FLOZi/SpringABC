@@ -48,15 +48,12 @@ end
 --
 -- Load
 --
-Spring.Echo("BORK Load LuaUI utils")
 VFS.Include("LuaHandler/Utilities/utils.lua", nil, VFS.DEF_MODE)
 
 --// the addon handler
-Spring.Echo("BORK Load LuaUI handler")
 include "LuaHandler/handler.lua"
 
 --// print Lua & LuaUI version
-Spring.Echo("BORK Print LuaUI version")
 Spring.Log(LUA_NAME, "info", LUA_VERSION .. " (" .. _VERSION .. ")")
 
 -------------------------------------------------------------------------------
