@@ -3,7 +3,7 @@
 
 function widget:GetInfo()
   return {
-    name      = "chiliGUIDemo",
+    name      = "chiliGUIDemoEnabled",
     desc      = "GUI demo for robocracy",
     author    = "quantum",
     date      = "WIP",
