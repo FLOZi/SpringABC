@@ -1,0 +1,5 @@
+icons/
+
+* Contains image files used as ingame 'far distance' / radar icons
+* https://springrts.com/wiki/Icontypes.lua
+* https://springrts.com/wiki/Gamedev:UnitDefs#Tag:iconType

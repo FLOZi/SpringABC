@@ -1,6 +1,3 @@
--- Wiki: http://springrts.com/wiki/Gamedev:Glossary#springcontent.sdz
--- See also; http://springrts.com/wiki/Animation-LuaScripting
-
 -- Author: Tobi Vollebregt
 -- Enables Lua unit scripts by including the gadget from springcontent.sdz
 

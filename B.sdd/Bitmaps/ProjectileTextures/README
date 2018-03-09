@@ -1,0 +1,5 @@
+bitmaps/loadpictures/
+
+* Contains image files used for CEGs and projectiles if automatic resources.lua is used 
+* https://springrts.com/wiki/CEG:Main
+* https://springrts.com/wiki/Resources.lua#Automatic

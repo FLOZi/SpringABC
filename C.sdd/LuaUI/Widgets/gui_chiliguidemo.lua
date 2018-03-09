@@ -9,7 +9,7 @@ function widget:GetInfo()
     date      = "WIP",
     license   = "WIP",
     layer     = 1,
-    enabled   = false  --  loaded by default?
+    enabled   = true  --  loaded by default?
   }
 end
 
@@ -29,6 +29,7 @@ local window3
 
 function widget:Initialize()
 	Chili = WG.Chili
+	Spring.Echo("FUCK ME I'M LOADED", Chili)
 
 	local function ToggleOrientation(self)
 		local panel = self:FindParent"layoutpanel"

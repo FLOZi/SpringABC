@@ -1,0 +1,5 @@
+LuaRules/
+
+* Contains files to load the default gadget handlers, typically left alone
+* main.lua - https://springrts.com/wiki/Lua:Environments#LuaRules_.28synced.29
+* draw.lua - https://springrts.com/wiki/Lua:Environments#LuaRules_.28unsynced.29

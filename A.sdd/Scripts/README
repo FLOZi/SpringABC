@@ -1,0 +1,4 @@
+scripts/
+
+* Contains .lua animation & control scripts to control unit behaviours
+* https://springrts.com/wiki/Animation-LuaScripting

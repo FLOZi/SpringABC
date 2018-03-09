@@ -1,0 +1,4 @@
+LuaRules/Gadgets/
+
+* Contains .lua "gadgets" - the main environment for "synced" game control scripts
+* unit_script.lua - https://springrts.com/wiki/Animation-LuaScripting

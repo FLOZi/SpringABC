@@ -6,10 +6,10 @@ local modinfo = {
 	description = "Game with empty directory structure",
 	url = "http://www.springrts.com/wiki/SpringABC",
 	
-	modtype = "1",
+	modtype = 1,
 
 	depend = {
-		"cursors.sdz",
+		"Spring Cursors",
 	}
 }
 

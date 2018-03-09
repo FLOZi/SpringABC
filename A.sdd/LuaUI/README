@@ -1,0 +1,4 @@
+LuaUI/
+
+* Contains files to load the default widget handlers, typically left alone
+* https://springrts.com/wiki/Lua:Environments#LuaUI

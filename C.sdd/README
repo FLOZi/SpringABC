@@ -1,0 +1,6 @@
+Root
+
+* Contains .lua files for defining the game package itself and exposing options to multiplayer lobbies
+* ModInfo.lua - https://springrts.com/wiki/Modinfo.lua
+* ModOptions.lua - https://springrts.com/wiki/Modoptions.lua
+* EngineOptions.lua - https://github.com/spring/spring/blob/develop/cont/base/springcontent/EngineOptions.lua

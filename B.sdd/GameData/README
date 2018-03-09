@@ -1,0 +1,4 @@
+gamedata/
+
+* Contains lua files to define various aspects of the game and manage eg. icons & sounds
+* https://springrts.com/wiki/Gamedev:Main#GameData
